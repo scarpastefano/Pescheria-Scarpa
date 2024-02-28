@@ -1,0 +1,8 @@
+{
+    "editor.bracketPairColorization.enabled": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "editor.codeActionWidget.showHeaders": true,
+    "editor.codeActionWidget.includeNearbyQuickFixes": false,
+    "audioCues.chatResponsePending": "auto",
+    "liveServer.settings.port": 5501
+}
