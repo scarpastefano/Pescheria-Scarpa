@@ -1,0 +1,93 @@
+[
+    {
+        "id":1,
+        "name": "Orata",
+        "category": "Pescato",
+        "scentific": "Sparus Aurata",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/ORATA-SELVAGGIA.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Branzino",
+        "category": "Pescato",
+        "scentific": "Dicentrarchus labrax",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/3s5_Spigola-selvaggia.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sogliola",
+        "category": "Pescato",
+        "scentific": "Solea Solea",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/3s4_Sogliola.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Triglia",
+        "category": "Pescato",
+        "scentific": "Mullus surmuletus",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/3s6_Triglia-Rossa.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Scorfano",
+        "category": "Pescato",
+        "scentific": "Scorpaena scrofa",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/scorfano-1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rombo liscio o Soaso",
+        "category": "Pescato",
+        "scentific": "pleuronettiforme",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/3s3_Rombo-Liscio.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Seppia",
+        "category": "Molluschi",
+        "scentific": "Seppia Officinalis",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/seppia.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Calamaro",
+        "category": "Molluschi",
+        "scentific": "Loligo vulgaris",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/calamaro.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Polpo",
+        "category": "Molluschi",
+        "scentific": "Octopus vulgaris",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/polpo_verace.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Mazzancolla",
+        "category": "Crostacei",
+        "scentific": "Melicertus kerathurus",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/mazzancolla_italiana.png"
+    },
+    {
+        "id": 11,
+        "name": "Scampi",
+        "category": "Crostacei",
+        "scentific": "Nephrops norvegicus",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/scampi_italiani_grandi-1.png"
+    },
+    {
+        "id": 12,
+        "name": "Vongole veraci",
+        "category": "Frutti di mare",
+        "scentific": "Ruditapes decussatus",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/vongole_veraci_pescate.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Cozze",
+        "category": "Frutti di mare",
+        "scentific": "Mytilus galloprovincialis",
+        "image": "https://www.pescheriacostazzurra.it/wp-content/uploads/cozza.jpg"
+    }
+]
